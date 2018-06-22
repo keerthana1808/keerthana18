@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class java5
+class Great
 {
 public static void main(String s[])
 {
